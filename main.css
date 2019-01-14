@@ -1,0 +1,169 @@
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: .7em;
+  margin-top: 8px;
+}
+
+img {
+  height: 13px;
+  margin-left: 34px;
+  margin-top: 18px;
+}
+
+nav {
+  margin-bottom: -44px;
+  z-index: 10;
+}
+
+nav ul {
+  margin: 0 auto;
+  margin-top: 9px;
+  margin-left: 380px;
+}
+
+nav ul li a {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+
+.fa-angle-down {
+  font-size: 2em;
+  color: black;
+}
+
+.nav-link {
+  padding:8px 12px;
+}
+
+.action-center {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 75px;
+}
+
+.fas {
+  color: white;
+}
+
+.image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  z-index: 0;
+}
+.image-1 {
+  background-image: url("https://www.tesla.com/ns_videos/homepage/homepage-model3-12032018.jpg?02018018018");
+}
+
+.image-2 {
+  background-image: url("https://www.tesla.com/ns_videos/homepage/homepage-models.jpg?02018018018");
+}
+
+.image-3 {
+  background-image: url("https://www.tesla.com/ns_videos/homepage/homepage-modelx.jpg?02018018018");
+}
+
+.image-4 {
+  background-image: url("https://www.tesla.com/ns_videos/homepage/homepage-energy-20181027.jpg?02018018018");
+}
+
+.fa-circle {
+  text-align: center;
+  color: gray;
+  font-size: 0.3em;
+  margin: 0px 5px;
+}
+
+.bottom-bit {
+  margin-top: 407px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.action-center h3 {
+  font-size: 0.9em;
+  margin-top: 12px;
+  text-decoration: underline;
+}
+
+.action-center button {
+  border-radius: 40px;
+  width: 215px;
+  height: 40px;
+  line-height: 4px;
+  font-size: 0.84em;
+  margin-top: 12px;
+}
+
+.bottom-bit h4 {
+  font-size: .87em;
+}
+
+.action-center .text {
+  font-size: 2.4em;
+}
+
+.action-center .power-everything-text {
+  font-size: 2.2em;
+}
+
+.action-center .btn-dark {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.action-center .outline-button {
+    color: #000;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.action-center .btn-dark:hover {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+
+
+#black-h4 {
+  color: black;
+}
+
+#solar-and-powerall {
+  font-size: 1.5em;
+}
+
+#flag {
+  margin: 0px 5px;
+  width: 20px;
+  height: 18px;
+}
+
+#bottom-energy {
+  margin-top: 440px;
+  margin-left: -30px;
+}
+
+#bottom-energy li {
+  margin: 0px 5px;
+}
+
+nav ul #right-nav {
+  position: absolute;
+  right: 8px;
+}
+
+nav ul #right-nav li a {
+  padding: 0px 10px;
+}
+
+nav ul #right-nav li .fa-bars {
+  padding: 0px 14px;
+}
